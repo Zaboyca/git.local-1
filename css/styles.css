@@ -6,3 +6,8 @@
 body {
 	background-color: #ededed;
 }
+.header img{
+	padding: 10px 20px;
+	float: right;
+	border: 3px solid #ededed;
+}
